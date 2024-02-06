@@ -7,6 +7,41 @@
   pointer-events: none;
 }
 
+.no-padding {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.row-image {
+  width: 4em;
+}
+
+.row-text {
+  padding-top: 30px;
+}
+
+.big-text {
+  font-size: 1.9rem;
+  font-weight: 600;
+}
+.header {
+  padding-left: 16px;
+  padding-right: 16px;
+  text-align: center;
+  position: relative;
+}
+
+.left-text {
+  text-align: start;
+}
+
+.centered {
+  position: absolute;
+  top: 42%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -35,4 +70,29 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.flip-image {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+@font-face {
+  font-family: "Cormorant";
+  font-style: normal;
+  font-weight: 400; /* normal | 300 | 400 | 600 | bold | etc */
+  src: url("fonts/PoiretOne-Regular.ttf") format("truetype");
+}
+
+.background-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.h1, h2, h3, h4, h5 {
+  font-family: Cormorant;
+  font-style: normal;
+  font-weight: 400;
 }
