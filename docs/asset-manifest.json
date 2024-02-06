@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/wedding/static/css/main.c2ba5161.css",
+    "main.js": "/wedding/static/js/main.bfece40b.js",
+    "static/js/787.cf61719d.chunk.js": "/wedding/static/js/787.cf61719d.chunk.js",
+    "static/media/dress4.jpg": "/wedding/static/media/dress4.bfdb7eac0f6e092453a5.jpg",
+    "static/media/dress7.jpg": "/wedding/static/media/dress7.27c3749ecb40eecbd4b3.jpg",
+    "static/media/back1.jpg": "/wedding/static/media/back1.60c8bc702fa0de744ad8.jpg",
+    "static/media/color4.jpg": "/wedding/static/media/color4.6985585da626e77d03d0.jpg",
+    "static/media/dress6.jpg": "/wedding/static/media/dress6.ee4eae2867f1dce8419b.jpg",
+    "static/media/back5.jpg": "/wedding/static/media/back5.bc270e10773764406718.jpg",
+    "static/media/color3.jpg": "/wedding/static/media/color3.154ddcd33f7825566157.jpg",
+    "static/media/dress3.jpg": "/wedding/static/media/dress3.77b564ab092c6f6a27aa.jpg",
+    "static/media/color1.jpg": "/wedding/static/media/color1.788adb97f931e5c16fa5.jpg",
+    "static/media/dress5.jpg": "/wedding/static/media/dress5.a5af98156f53d4af6cac.jpg",
+    "static/media/back41.jpg": "/wedding/static/media/back41.202bd94effd05b88e8a6.jpg",
+    "static/media/dress2.jpg": "/wedding/static/media/dress2.2168290318c7ad22dd3d.jpg",
+    "static/media/color5.jpg": "/wedding/static/media/color5.9dc81c831db86169bae0.jpg",
+    "static/media/PoiretOne-Regular.ttf": "/wedding/static/media/PoiretOne-Regular.9bf109e97f6294c6fe2b.ttf",
+    "static/media/color2.jpg": "/wedding/static/media/color2.b860f57dab6c96cde282.jpg",
+    "static/media/back-text.jpg": "/wedding/static/media/back-text.25102eb2c3439e3f84c3.jpg",
+    "index.html": "/wedding/index.html",
+    "main.c2ba5161.css.map": "/wedding/static/css/main.c2ba5161.css.map",
+    "main.bfece40b.js.map": "/wedding/static/js/main.bfece40b.js.map",
+    "787.cf61719d.chunk.js.map": "/wedding/static/js/787.cf61719d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2ba5161.css",
+    "static/js/main.bfece40b.js"
+  ]
+}
