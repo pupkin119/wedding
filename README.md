@@ -1,4 +1,6 @@
 
+Use node 18 version
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -14,3 +16,7 @@ You will also see any lint errors in the console.
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
+
+build step:
+* npm run build 
+* copy build folder to docs  
